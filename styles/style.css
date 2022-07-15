@@ -162,6 +162,10 @@ a {
 
 }
 
+.blog-item01 h3 {
+    border-top: 3px solid transparent;
+}
+
 .blog-item01 h3:hover {
     border-top: 3px solid orange;
     color: orange;
@@ -196,6 +200,10 @@ a {
 p,
 a {
     padding: 10px;
+}
+
+.blog-item02 h3 {
+    border-top: 3px solid transparent;
 }
 
 .blog-item02 h3:hover {
