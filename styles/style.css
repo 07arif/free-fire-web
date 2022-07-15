@@ -6,7 +6,7 @@
 
 /* header start  */
 .top-header {
-    background-color: rgb(237, 158, 39);
+    background-color: orange;
 }
 
 .header-items {
@@ -45,6 +45,11 @@
     color: white;
 }
 
+.nav-bar ul li a:hover {
+    color: orange;
+    transition: .3s;
+}
+
 /* top-header end  */
 
 /* top-banner start  */
@@ -68,6 +73,10 @@
 .half-width img {
     width: 200px;
 
+}
+
+.half-width img:hover {
+    box-shadow: 1px 1px 10px rgb(183, 171, 103);
 }
 
 /* top-banner end  */
