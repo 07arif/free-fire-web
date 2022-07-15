@@ -3,3 +3,44 @@
     padding: 0;
     font-family: Arial, Helvetica, sans-serif;
 }
+
+/* header start  */
+.top-header {
+    background-color: rgb(237, 158, 39);
+}
+
+.header-items {
+    display: flex;
+    width: 98%;
+    margin: 0 auto;
+    background-color: black;
+}
+
+.header-left {
+    width: 50%;
+    padding-left: 15px;
+}
+
+.header-left img {
+    margin-top: 8px;
+}
+
+.header-right {
+    width: 50%;
+}
+
+.nav-bar ul {
+    display: flex;
+    justify-content: right;
+    margin: 0 auto;
+}
+
+.nav-bar ul li {
+    list-style: none;
+    padding: 15px;
+}
+
+.nav-bar ul li a {
+    text-decoration: none;
+    color: white;
+}
