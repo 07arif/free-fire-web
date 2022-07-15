@@ -86,15 +86,15 @@
 .mid-banner {
     background-image: url(../images/banner&logo/right.jpeg);
     background-size: cover;
-    height: 70vh;
+    height: 100vh;
 }
 
 .banner-content {
     width: 30%;
     color: white;
     align-items: center;
-    padding-top: 90px;
-    margin: 0 660px;
+    padding-top: 150px;
+    margin: 0 900px;
     line-height: 1.5;
 }
 
