@@ -44,3 +44,30 @@
     text-decoration: none;
     color: white;
 }
+
+/* top-header end  */
+
+/* top-banner start  */
+.top-bannner {
+    background-image: url(/images/banner&logo/bg-banner/10.png);
+    background-size: cover;
+    height: 100vh;
+}
+
+.top-banner-items {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    margin: 0 auto;
+    padding-top: 360px;
+    position: absolute;
+    padding-left: 30%;
+
+}
+
+.half-width img {
+    width: 200px;
+
+}
+
+/* top-banner end  */
