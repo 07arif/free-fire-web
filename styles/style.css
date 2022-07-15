@@ -120,3 +120,117 @@
 }
 
 /* mid-banner end  */
+
+/* blog are :start  */
+.latest-news {
+    background-color: rgb(247, 236, 236);
+    padding-bottom: 70px;
+
+
+}
+
+.latest-news h1 {
+    padding-top: 70px;
+    margin-bottom: 50px;
+    text-align: center;
+    font-size: 35px;
+}
+
+.blog-item {
+    width: 90%;
+    display: flex;
+    margin: 0 auto;
+    gap: 15px;
+    padding-top: 15px;
+}
+
+.blog-item01 {
+    background-color: white;
+    width: 50%;
+    line-height: 1.2;
+    padding-bottom: 20px;
+}
+
+.blog-item01 img {
+    width: 100%;
+}
+
+.blog-item01 h3,
+p,
+a {
+    padding: 10px;
+
+}
+
+.blog-item01 h3:hover {
+    border-top: 3px solid orange;
+    color: orange;
+}
+
+.blog-item01 a {
+    text-decoration: none;
+    color: black;
+    padding: 10px 15px;
+    background-color: orange;
+    margin-left: 10px;
+}
+
+.blog-item01 a:hover {
+    background-color: black;
+    color: rgb(255, 255, 255);
+}
+
+/* news-item-02  */
+.blog-item02 {
+    background-color: white;
+    width: 50%;
+    line-height: 1.2;
+    padding-bottom: 20px;
+}
+
+.blog-item02 img {
+    width: 100%;
+}
+
+.blog-item02 h3,
+p,
+a {
+    padding: 10px;
+}
+
+.blog-item02 h3:hover {
+    border-top: 3px solid orange;
+    color: orange;
+}
+
+.blog-item02 a {
+    text-decoration: none;
+    color: black;
+    padding: 10px 15px;
+    background-color: orange;
+    margin-left: 10px;
+}
+
+.blog-item02 a:hover {
+    background-color: black;
+    color: rgb(255, 255, 255);
+}
+
+.latest-news button {
+    background-color: orange;
+    border: none;
+    font-weight: 700;
+    padding: 15px 180px;
+    align-items: right;
+    margin-left: 30%;
+    margin-top: 30px;
+
+
+}
+
+.latest-news button:hover {
+    background-color: black;
+    color: white;
+}
+
+/* Blog area end  */
